@@ -28,7 +28,7 @@ class UserRepository {
 
 ```
 
-[¿Qué es el Principio de inversión de la dependencia (DIP)?](hhttps://es.wikipedia.org/wiki/Principio_de_inversi%C3%B3n_de_la_dependencia)
+[¿Qué es el Principio de inversión de la dependencia (DIP)?](https://es.wikipedia.org/wiki/Principio_de_inversi%C3%B3n_de_la_dependencia)
 
 ## Instrucciones
 
